@@ -1,14 +1,9 @@
-Hi, I’m Hazem,
+Hi, I’m Hazem
 
-Currently working in emergency communications, looking to become a Software Developer!
+Currently working in emergency communications, looking to become a Software Developer
 
-I've been learning coding now for 3 months, primarily JavaScript back end on codecademy.com.
-I'm absolutely hooked on the greater understanding I get from the world around me as I build my coding knowledge.
+I've been learning coding since august 2021 and I am starting with the PERN stack. My repositories represent my learning progress so far
 
-I have completed numerous courses on codecademy with a particular focus on node.js, express.js, as well as numerous other unrelated courses to further my knowledge.
+Any advice would be greatly appreciated, particularly from a career switcher perspective.
 
-I have learned to have a good balance between theoretical and practical learning even though I greatly prefer the latter.
-
-I'm hoping to learn lots from experienced and amateur programmers on GitHub and cement my knowledge through practice.
-
-Thank you for reading!
+Thanks for reading!
