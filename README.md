@@ -1,6 +1,6 @@
 Hi, I’m Hazem
 
-Currently working in emergency communications, looking to become a Software Developer. [Please visit my portfolio](https://helpful-gelato-25d623.netlify.app/)
+Currently working in emergency communications, looking to become a Software Developer. [Please visit my portfolio](hazem.almassri.ca)
 
 I've been learning coding since august 2021 and I am starting with the PERN stack. My repositories represent my learning progress so far
 
